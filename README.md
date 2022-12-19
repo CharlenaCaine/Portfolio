@@ -2,6 +2,7 @@
 
 THis website is a portfolio of my work.
 I needed to make sure that thwe following were in the portfolio:
+
 -When the page is loaded the page presents your name, a recent photo or avatar, and links to sections about you, your work, and how to contact you
 -When one of the links in the navigation is clicked then the UI scrolls to the corresponding section
 -When viewing the section about your work then the section contains titled images of your applications
